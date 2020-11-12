@@ -1,6 +1,6 @@
 
 
-![](https://image.flaticon.com/icons/png/128/889/889105.png)(https://www.flickr.com/explore)
+![](https://image.flaticon.com/icons/png/128/889/889105.png)
 # Image Crawling from Flickrs
 
 Flickr - almost certainly the best online photo management and sharing application in the world. You can find any photos you want. Most of them can be used as a dataset. 
